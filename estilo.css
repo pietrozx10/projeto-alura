@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcards de Estudo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Meus Flashcards</h1>
+        <p>Aprenda de forma prática!</p>
+    </header>
+
+    <main class="container">
+
+        <div class="flashcard">
+            <div class="pergunta">
+                O que significa HTML?
+            </div>
+            <div class="resposta">
+                HyperText Markup Language.
+            </div>
+        </div>
+
+        <div class="flashcard">
+            <div class="pergunta">
+                Para que serve o CSS?
+            </div>
+            <div class="resposta">
+                Para estilizar páginas web.
+            </div>
+        </div>
+
+        <div class="flashcard">
+            <div class="pergunta">
+                O que é JavaScript?
+            </div>
+            <div class="resposta">
+                Linguagem de programação para interatividade em páginas web.
+            </div>
+        </div>
+
+    </main>
+
+</body>
+</html>
